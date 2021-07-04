@@ -1,4 +1,4 @@
-# Mass Cpanel Checker Php
+# Mass Active Cpanel Checker Php
 
 One of the best and accurate Mass Cpanel Checker In Php Cli
 
